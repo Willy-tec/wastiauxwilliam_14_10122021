@@ -34,11 +34,12 @@
     </li>
     <li>
         Un second repo GitHub contenant le code source de l'application HRnet
-        converti en React. : <a href="./">p14</a>
+        converti en React. : <a href="https://github.com/Willy-tec/wastiauxwilliam_14_10122021">https://github.com/Willy-tec/wastiauxwilliam_14_10122021</a>
     </li>
     <li>
         Un rapport de performance LightHouse de HRnet fonctionnant avant et
         après la conversion de la bibliothèque, au format JSON.
+        <a href="https://github.com/Willy-tec/wastiauxwilliam_14_10122021/tree/main/performance">https://github.com/Willy-tec/wastiauxwilliam_14_10122021/tree/main/performance</a>
     </li>
 </ul>
 <h3>Dépendance</h3>
