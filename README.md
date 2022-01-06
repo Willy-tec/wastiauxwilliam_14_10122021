@@ -51,6 +51,6 @@
 </ul>
 <h3>Lancer le projet :</h3>
 <ul>
-    <li>```npm install```</li>
-    <li>```npm run start```</li>
+    <li><code>npm install</code></li>
+    <li><code>npm run start</code></li>
 </ul>
