@@ -5,13 +5,15 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 import Home from './page/Home';
 import EmployeList from './page/EmployeList';
+import Error from './page/Error'
 
 ReactDOM.render(
     <React.StrictMode>
         <BrowserRouter>
             <Routes>
-                <Route path="/" element={<Home />} />
+                <Route exact path="/" element={<Home />} />
                 <Route path="/employee" element={<EmployeList />} />
+                <Route path="*" element={<Error/>}></Route>
             </Routes>
         </BrowserRouter>
     </React.StrictMode>,
