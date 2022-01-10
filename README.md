@@ -54,5 +54,5 @@
     <li><code>npm install</code></li>
     <li><code>npm run start</code></li>
 </ul>
-<h3>Voir le site déployer</h3>
+<h3>Voir le site déployé</h3>
 <a href="https://wastiauxwilliam-14-10122021.pages.dev/">Ici</a>
